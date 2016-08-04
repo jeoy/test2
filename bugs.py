@@ -13,7 +13,9 @@ import re
  I added some parts here
 
 
- I added some branch changed this
+ 
+ I added some master changed this
+ master
  
     #初始化，传入基地址，是否只看楼主的参数
     def __init__(self,baseUrl,seeLZ):
