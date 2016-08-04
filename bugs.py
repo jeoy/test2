@@ -8,21 +8,12 @@ import re
 # import time
  #where2showthis
 #处理页面标签类
+ I delete some parts of branch 1， right？
  
-   2222
-    removeExtraTag = re.compile('<.*?>')
-    def replace(self,x):
-        x = re.sub(self.removeImg,"",x)
-        x = re.sub(self.removeAddr,"",x)
-        x = re.sub(self.replaceLine,"\n",x)
-        x = re.sub(self.replaceTD,"\t",x)
-        x = re.sub(self.replacePara,"\n    ",x)
-        x = re.sub(self.replaceBR,"\n",x)
-        x = re.sub(self.removeExtraTag,"",x)
-        #strip()将前后多余内容删除
-        return x.strip()
-#百度贴吧爬虫类
-class BDTB:
+ I added some parts here
+
+
+ I added some parts again
  
     #初始化，传入基地址，是否只看楼主的参数
     def __init__(self,baseUrl,seeLZ):
