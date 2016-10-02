@@ -8,11 +8,12 @@ import re
 # import time
  #where2showthis
 #处理页面标签类
- I delete some parts of branch 1， right？
  
- I added some parts here
 
-
+#试着用命令行去同步这个文件
+#试着用命令行去同步这个文件2
+#试着用命令行去同步这个文件3
+#试着用命令行去同步这个文件4
  
  I added some master changed this
  master
